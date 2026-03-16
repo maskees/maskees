@@ -31,7 +31,4 @@ Focus: Artificial Intelligence and Intelligent Systems
 
 📫 Let's Connect!
 LinkedIn: https://in.linkedin.com/in/shaksham-mehra
-
-Portfolio: [Your Website Link Here]
-
-Email: [Your Email Address Here]
+Email: mehrashaksham@gmail.com
