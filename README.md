@@ -1,5 +1,3 @@
-Here is a professional and engaging GitHub README template tailored to your background in Artificial Intelligence and your specific interests. You can copy and paste this directly into a README.md file in a repository named after your GitHub username to display it on your profile.
-
 Hi there, I'm Shaksham Mehra! 👋
 I am a passionate B.Tech Artificial Intelligence student currently in my 3rd year at NMIMS. I thrive at the intersection of data, algorithms, and real-world problem-solving. Whether it's training deep learning models or competing in high-stakes hackathons, I am always looking for ways to push the boundaries of technology.
 
