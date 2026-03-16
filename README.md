@@ -22,8 +22,6 @@ On the Pickleball Court: I’m an avid singles player, constantly working on my 
 
 Analyzing Markets: I keep a close eye on the Indian stock market and financial trends.
 
-Tech Enthusiast: I enjoy staying updated on the latest smartphone hardware and emerging consumer tech.
-
 📊 Academic Highlights
 CGPA: 3.58 / 4.00
 
